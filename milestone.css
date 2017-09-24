@@ -46,6 +46,53 @@ html{
 	padding-left: 10px;
 }
 
+
+
+@media screen and (min-width: 700px){
+	
+	.navigation ul li{
+        display: inline-block;
+    }
+    
+    nav input, nav label{
+	    display: none;
+    }
+    
+    .navigation{
+	    height: 60px;
+    }
+    
+    .navigation nav{
+		margin-top: 20px;
+    }
+    
+    .desktop-nav{
+	    width: 280px;
+	    margin: 0 auto;
+    }
+    
+    .desktop-nav a{
+	    width: 30%;
+	    font-size: 18px;
+	    padding-top: 20px;
+	    padding-bottom: 20px;
+	    padding-left: 15px;
+	    padding-right: 15px;
+	    -webkit-transition: color .5s, background-color .5s, text-decoration 1s;
+	    transition: color .5s, background-color .5s, text-decoration 1s;
+	    text-decoration: underline;
+    }
+    
+    .desktop-nav a:hover{
+	    color: #fff;
+	    background-color: rgb(238, 87, 26);
+	    text-decoration: none;
+	    cursor: pointer;
+	    
+    }
+	
+}
+
 @media screen and (max-width: 700px){
 	.hero{
 		width: 95%;
@@ -56,4 +103,51 @@ html{
 		width: 95%;
 		padding: 10px;
 	}
+	
+	/* NAV */
+	/* 
+	    
+	    MOBILE NAVIGATION 
+	    
+	 */
+    #mobile-nav-opener{
+        display: none;
+    }
+
+    #mobile-nav-opener ~ label{
+        display: block;
+        text-align: center;
+        background-color: #000;
+        padding: 15px 0px;
+        color: #fff;
+    }
+    #mobile-nav-opener ~ label h2{
+        margin: 0px;
+    }
+
+    #mobile-nav-opener ~ .mobile-nav{
+        max-height: 0;
+        transition: max-height .5s;
+        -webkit-transition: max-height .5s;
+        overflow: hidden;
+    }
+
+    #mobile-nav-opener:checked ~ .mobile-nav {
+        max-height:200px;
+    }
+
+    .mobile-nav a{
+        display: block;
+        padding: 10px;
+        text-align: center;
+        background-color:rgb(238, 87, 26);
+        color: #fff;
+    }
+
+    .mobile-nav a:first-child{
+        padding-top:15px;
+    }
+    .mobile-nav a:last-child{
+        padding-bottom:15px;
+    }
 }
