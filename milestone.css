@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400');
-
+ 
 html{
 	font-family: 'Roboto', sans-serif;
 }
-
+ 
 .hero{
 	width: 500px;
 	margin: 0 auto;
