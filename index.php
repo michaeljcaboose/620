@@ -7,15 +7,7 @@
 	</head>
 	<body>
 		<div class="navigation">
-	        <nav>
-	            <input type="checkbox" id="mobile-nav-opener" class="mobile-nav">
-	            <label for="mobile-nav-opener"><h2>Menu</h2></label>
-	            <div class="mobile-nav desktop-nav">
-	                <a>Home</a><!--
-	             --><a>Milestone 1</a><!--
-	             --><a>About</a>
-	            </div>
-	        </nav>
+	        <?php include("templates/nav.html"); ?>
 		</div>
 		<div class="hero">
 			<h1>Team 1: M.A.S.P.</h1>
@@ -33,14 +25,14 @@
 				<div class="milestone-item">
 					<h3>Problems</h3>
 					<p>As an individual, going through physical menu brochures, apps, or websites for all the information can be taxing and confusing, especially when the cuisine and ingredients are unfamiliar. People have many requirements of information that they want to be displayed on the menu (ingredients, nutritional values, prep time, etc), and not all restaurants are aware of these needs.</p>
-					<p>As a group, reaching a consensus on where to eat or order from can be frustrating and time-consuming, especially when the group has a variety of dietary, financial, time, and distance restritctions. Furthermore, the process is even harder when there is no one who takes charge in making decision for the group.</p>
+					<p>As a group, reaching a consensus on where to eat or order from can be frustrating and time-consuming, especially when the group has a variety of dietary, financial, time, and distance restrictions. Furthermore, the process is even harder when there is no one who takes charge in making decision for the group.</p>
 				</div>
 				
 				<div class="milestone-item">
 					<h3>General Direction for Solution</h3>
-					<p>A smart web-based service for browsers and mobile devices to help the users come to a consensus regarding the restarant to eat or oder from based on the preferences of the individuals in the group.</p>
+					<p>A smart web-based service for browsers and mobile devices to help the users come to a consensus regarding the restaurant to eat or oder from based on the preferences of the individuals in the group.</p>
 					<p>The service also aids the users by providing detailed menu and food glossary for all the dishes and ingredients used by the restaurant. </p>
-					<p>The service shall make decision as the preferences are being submitted. The service shall work without the need for an account creation in order to accomodate casual users. </p>
+					<p>The service shall make decision as the preferences are being submitted. The service shall work without the need for an account creation in order to accomidate casual users. </p>
 				</div>
 				
 				<div class="milestone-item">
@@ -57,7 +49,7 @@
 					
 					<div>
 						<h4>Worries</h4>
-						<p>Deciding where to eat or order from can be frustrating and time-consuming. Unable to understand or obtain the wanted information from the restuarant menu.</p>
+						<p>Deciding where to eat or order from can be frustrating and time-consuming. Unable to understand or obtain the wanted information from the restaurant menu.</p>
 					</div>
 					
 					<div>
@@ -109,7 +101,7 @@
 				
 				<div class="milestone-item">
 					<h3>Team Information</h3>
-					<p>Please visit the ABOUT page for all the team information, including members' information, roles, responsibilities, meeting times, software used, and grounds for expulsion.</p>
+					<p>Please visit the <a href="about.html">ABOUT page</a> for all the team information, including members' information, roles, responsibilities, meeting times, software used, and grounds for expulsion.</p>
 				</div>
 			</div>
 		</div>
