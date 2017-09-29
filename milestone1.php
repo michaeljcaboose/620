@@ -5,71 +5,76 @@
 		<link href="normalize.css" type="text/css" rel="stylesheet" />
 		<link href="milestone.css" type="text/css" rel="stylesheet" />
 	</head>
-    <body>
-        <div class="navigation">
+	<body>
+		<div class="navigation">
 	        <?php include("templates/nav.html"); ?>
-        </div>
-        <div class="hero">
-	        <h1>Project Name: Munchuria</h1>
-        </div>
-        
-		<div class="milestone">
-			<div>
-	        	<h2>Team Members, Roles, and Responsibilities</h2>
-	        	<div class="milestone-copy milestone-item">
-	            	<h3>Matthew Panebianco (mp5292@rit.edu)</h3>
-	                <h4>Code Lead</h4>
-	                <p>Create a stable and easy-to-maintain code infrastructure, master of technologies used, and update the project website.</p>
-	                <h4>Research and Design Deputy</h4>
-	                <p>Assist Aishwarya when needed.</p>
-	           	</div>
-	           	<div class="milestone-copy milestone-item">
-	            <h3>Aishwarya Uniyal (axu2523@rit.edu)</h3>
-	                <h4>Research and Design Lead</h4>
-	                    <p>Define the scope of research, plan the interview questions, test prototypes, compare to existing product.</p>
-	                <h4>Documentation Deputy</h4>
-	                    <p>Assist Sovantharith when needed.</p>
-	           	</div>
-	           	<div class="milestone-copy milestone-item">
-		           	<h3>Sovantharith Seng (ss2816@rit.edu)</h3>
-		           	<h4>Team Lead</h4>
-		           	<p>Arrange group meetings, set agenda for group meetings, set deadlines for work, submit team submission if only one submission is needed, and communicate with the professor.</p>
-		           	<h4>Documentation Lead</h4>
-		           	<p>Maintain documentations for the projects and team meetings.
-	                </p>
-	                <h4>Code Deputy</h4>
-	                <p>Assist Matthew when needed.</p>
-	           	</div>
-	           	
-	            <div class="milestone-copy milestone-item">
-		            <h3>Peter Yeung (pxy9548@rit.edu)</h3>
-	                <h4>Communication Lead</h4>
-	                    <p>Recruit users for interviews, interact with the participants, collect and analyze qualitative data.</p>
-	                <h4>Team Deputy</h4>
-	                    <p>Assist Sovantharith when needed.</p>
-	            </div>
-			</div>
-	        <div>    
-	        	<h2>Softwares</h2>
-	        	<div class="milestone-copy milestone-item"> 
-		            <ul>
-			            <li>Google Suite for storage and documentation</li>
-			            <li>Google Hangouts for team communication and online meeting</li>
-			            <li>GitHub for code repo</li>
-			            <li>Prototyping software TBD</li>
-		            </ul>
-	        	</div>
-	        </div>
-	        <div >    
-	        	<h2>Grounds of Expulsion</h2>
-	        	<div  class="milestone-copy milestone-item">
-		        	<ul>
-		            	<li>Misses 2 meetings without providing an upfront and reasonable explanation.</li>
-						<li>Does not provide any contributions to projects.</li>
-						<li>Plagiarize someone else's work.</li>
-		        	</ul>
-	        	</div>
-	        </div>
 		</div>
-    </body>
+		<div class="hero">
+			<h1>Team 1: M.A.S.P.</h1>
+		</div>
+		<br />
+		<br />
+		<div class="milestone">
+			<h2>Milestone 1</h2>
+			<div class="milestone-copy">
+				<div class="milestone-item">
+					<h3>Customers</h3>
+						<p>Individuals and groups who are deciding which restaurant to eat or order from</p>					
+				</div>
+				
+				<div class="milestone-item">
+					<h3>Problems</h3>
+					<p>As an individual, going through physical menu brochures, apps, or websites for all the information can be taxing and confusing, especially when the cuisine and ingredients are unfamiliar. People have many requirements of information that they want to be displayed on the menu (ingredients, nutritional values, prep time, etc), and not all restaurants are aware of these needs.</p>
+					<p>As a group, reaching a consensus on where to eat or order from can be frustrating and time-consuming, especially when the group has a variety of dietary, financial, time, and distance restrictions. Furthermore, the process is even harder when there is no one who takes charge in making decision for the group.</p>
+				</div>
+				
+				<div class="milestone-item">
+					<h3>General Direction for Solution</h3>
+					<p>A smart web-based service for browsers and mobile devices to help the users come to a consensus regarding the restaurant to eat or oder from based on the preferences of the individuals in the group.</p>
+					<p>The service also aids the users by providing detailed menu and food glossary for all the dishes and ingredients used by the restaurant. </p>
+					<p>The service shall make decision as the preferences are being submitted. The service shall work without the need for an account creation in order to accomidate casual users. </p>
+				</div>
+				
+				<div class="milestone-item">
+					<h3>Stakeholders</h3>
+					<div>
+						<h4>Identification</h4>
+						<p>Individuals and groups who are deciding which restaurant to eat or order from</p>
+					</div>
+					
+					<div>
+						<h4>Goals</h4>
+						<p>Deciding where to eat or order from, and interacting with the restaurant menu</p>
+					</div>
+					
+					<div>
+						<h4>Worries</h4>
+						<p>Deciding where to eat or order from can be frustrating and time-consuming. Unable to understand or obtain the wanted information from the restaurant menu.</p>
+					</div>
+					
+					<div>
+						<h4>How to Involve Them</h4>
+						<p>Interviewing with the users to learn more about their worries. Asking the users for the feedbacks on the prototypes.</p>
+					</div>
+					
+					<div>
+						<h4>How to Communicate the Design</h4>
+						<p>Sharing the low-fi and high-fi prototypes once they are available. Asking the users for their feedback on the prototypes.  Asking them to look at existing fast food brands and food ordering apps for the kind of structure and color scheme they use.</p>
+					</div>
+					
+					<div>
+						<h4>How to Communicate Progress</h4>
+						<p>We share the updated prototypes once we get all the feedbacks.  We follow up with the emails about the new updates.</p>
+					</div>
+					
+				</div>
+				
+				<div class="milestone-item">
+					<h3>Team Information</h3>
+					<p>Please visit the <a href="about.html">ABOUT page</a> for all the team information, including members' information, roles, responsibilities, meeting times, software used, and grounds for expulsion.</p>
+				</div>
+			</div>
+		</div>
+		
+	</body>
 </html>
