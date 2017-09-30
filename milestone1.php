@@ -71,7 +71,7 @@
 				
 				<div class="milestone-item">
 					<h3>Team Information</h3>
-					<p>Please visit the <a href="index.html">home page</a> for all the team information, including members' information, roles, responsibilities, meeting times, software used, and grounds for expulsion.</p>
+					<p>Please visit the <a href="index.php">home page</a> for all the team information, including members' information, roles, responsibilities, meeting times, software used, and grounds for expulsion.</p>
 				</div>
 			</div>
 		</div>
