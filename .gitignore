@@ -1,1 +1,6 @@
 .DS_Store
+
+# Image Folder
+*/media/images/*
+*/.idea/*
+.idea
