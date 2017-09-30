@@ -10,12 +10,12 @@
 	        <?php include("templates/nav.html"); ?>
 		</div>
 		<div class="hero">
-			<h1>Team 1: M.A.S.P.</h1>
+			<h1>Milestone 1 - Project Focus</h1>
 		</div>
 		<br />
 		<br />
 		<div class="milestone">
-			<h2>Milestone 1</h2>
+			<h2>Establish a website that identifies your team, your customer, the problem, and the general direction for solution.</h2>
 			<div class="milestone-copy">
 				<div class="milestone-item">
 					<h3>Customers</h3>
@@ -71,7 +71,7 @@
 				
 				<div class="milestone-item">
 					<h3>Team Information</h3>
-					<p>Please visit the <a href="about.html">ABOUT page</a> for all the team information, including members' information, roles, responsibilities, meeting times, software used, and grounds for expulsion.</p>
+					<p>Please visit the <a href="index.html">home page</a> for all the team information, including members' information, roles, responsibilities, meeting times, software used, and grounds for expulsion.</p>
 				</div>
 			</div>
 		</div>

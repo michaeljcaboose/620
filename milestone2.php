@@ -9,8 +9,11 @@
 		<div class="navigation">
 	        <?php include("templates/nav.html"); ?>
 		</div>
+        <div class="hero">
+            <h1>Milestone 2 - Contextual Inquiry</h1>
+        </div>
         <div class="milestone">
-            <h2>Milestone 2 - Contextual Inquiry</h2>
+            <h2>Conduct a contextual inquiry for your project on a workplace to which you have access.</h2>
             <img src="media/images/milestone2/ad1-min.png" alt="Working on Contextual Inquiry" />
             <div class="milestone-copy">
                 <div class="milestone-item">
@@ -142,7 +145,6 @@
                 </div>
                 <div class="milestone-item">
                     <h3>Affinity Diagram</h3>
-                    <p>PICTURES! Worth a thousand words!</p>
                     <figure>
                         <img src="media/images/milestone2/ad1-min.png" alt="Beginning the Contextual Inquiry"/>
                         <figcaption>Beginning the Contextual Inquiry. <a href="media/images/milestone2/ad1-min-fullres.png">Click here for the full-res photo</a></figcaption>
