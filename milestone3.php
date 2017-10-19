@@ -14,26 +14,34 @@
         </div>
         <div class="milestone">
             <h2>Generate Personas from the Contextual Inquiries in Milestone 2</h2>
-            <img src="media/images/milestone2/ad1-min.png" alt="Working on Contextual Inquiry" />
+            <img src="media/images/milestone3/ad1-min.jpg" alt="Working on Persona Mapping" />
             <div class="milestone-copy">
 
                 <div class="milestone-item">
                     <h3>Personas</h3>
                     <div>
                         <h4>Primary Persona</h4>
-                        <p></p>
+                        <a href="media/images/milestone3/personas/persona-02.png">Click here for the full-res photo</a>
+                        <br /><br />
+                        <img src="media/images/milestone3/personas/persona-02-min.png" alt="Primary Persona"/>
                     </div>
                     <div>
                         <h4>Secondary Persona #1</h4>
-                        <p></p>
+                        <a href="media/images/milestone3/personas/persona-01.png">Click here for the full-res photo</a>
+                        <br /><br />
+                        <img src="media/images/milestone3/personas/persona-01-min.png" alt="Secondary Persona #1"/>
                     </div>
                     <div>
                         <h4>Secondary Persona #2</h4>
-                        <p></p>
+                        <a href="media/images/milestone3/personas/persona-03.png">Click here for the full-res photo</a>
+                        <br /><br />
+                        <img src="media/images/milestone3/personas/persona-03-min.png" alt="Secondary Persona #2"/>
                     </div>
                     <div>
                         <h4>Anti-Persona</h4>
-                        <p></p>
+                        <a href="media/images/milestone3/personas/persona-04.png">Click here for the full-res photo</a>
+                        <br /><br />
+                        <img src="media/images/milestone3/personas/persona-04-min.png" alt="Anti-Persona"/>
                     </div>
                 </div>
 
@@ -52,12 +60,14 @@
                                 <li>Sovantharith’s subjects: S1, S2, and S3</li>
                                 <li>Peter’s subjects: P1, P2, and P3</li>
                             </ul>
+                            <img src="media/images/milestone3/ad2-min.jpg" alt="Rewriting Contextual Mapping" />
                             <p>We then came up with the roles and grouped the subjects to those roles. (STEP 1)</p>
                             <ul>
                                 <li>Role 1: Person who initiate the voting process for a group. (S2, P2, A2)</li>
                                 <li>Role 2: Person who participate in the voting process for a group. (S1, S3, P1, P3, A2, A3, A1)</li>
                                 <li>Role 3: Person who prefer to order/eat out alone (A1)</li>
                             </ul>
+                            <img src="media/images/milestone3/ad4-min.jpg" alt="Roles" />
                             <p>We then identify the behavioral variables (STEP 2). We decided to pair the variables into
                                 sliding scales
                             </p>
@@ -71,7 +81,7 @@
                                 <li>Tech savvy</li>
                             </ul>
                         <p>We then mapped the interview subjects to the behavioral variables. (STEP 3)</p>
-
+                        <img src="media/images/milestone3/ad5-min.jpg" alt="Mapping to Behavioral Variables" />
                     </div>
 
                     <div>
@@ -237,7 +247,7 @@
                             <ul>
                                 <li>Demographics</li>
                                 <ul>
-                                    <li>Monroe Community College student</li>
+                                    <li>Graduate student</li>
                                     <li>25</li>
                                     <li>Female</li>
                                     <li>Single</li>
@@ -285,10 +295,10 @@
                         </p>
                         <p>We then designate the persona to the corresponding types as the following: (STEP 7)</p>
                         <ul>
-                            <li>Persona 1:</li>
-                            <li>Persona 2: </li>
-                            <li>Persona 3:</li>
-                            <li>Persona4: Anti-Persona</li>
+                            <li>Persona 1: Secondary Persona</li>
+                            <li>Persona 2: Primary Persona</li>
+                            <li>Persona 3: Secondary Persona</li>
+                            <li>Persona 4: Anti-Persona</li>
                         </ul>
                         <p>We then expanded the description of attributes and behaviors of the personas (STEP 8).</p>
                         <ul>
