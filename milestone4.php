@@ -14,14 +14,14 @@
     </div>
     <div class="milestone">
         <h2>Generate a Lo-Fi Prototype of the Munchuria App</h2>
-        <img src="media/images/milestone4/flowchart-header-min.png" alt="Flow Chart Header" />
+        <img src="media/images/milestone5/flowchart-header-min.png" alt="Flow Chart Header" />
         <div class="milestone-copy">
 
             <div class="milestone-item">
                 <h3>Lo-Fi Diagram</h3>
                 <figure>
-                    <img src="media/images/milestone4/Lo-Fi-Prototype-01-min.png" alt="LoFi Diagram"/>
-                    <figcaption>Our final Lo-Fi Diagram<a href="media/images/milestone4/Lo-Fi-Prototype-01.png">Click here for the full-res photo</a> </figcaption>
+                    <img src="media/images/milestone5/Lo-Fi-Prototype-01-min.png" alt="LoFi Diagram"/>
+                    <figcaption>Our final Lo-Fi Diagram<a href="media/images/milestone5/Lo-Fi-Prototype-01.png">Click here for the full-res photo</a> </figcaption>
                 </figure>
             </div>
 
@@ -40,7 +40,7 @@
                     <p>We then build a flow of action from start to finish. The followings are some iterations with the
                         final picture as the version we were comfortable with.
                     </p>
-                    <img src="media/images/milestone4/header-min-min.png" alt="Max working on Flow Chart" />
+                    <img src="media/images/milestone5/header-min-min.png" alt="Max working on Flow Chart" />
                     <p>We then came up with the roles and grouped the subjects to those roles. (STEP 1)</p>
                     <ol>
                         <li>For the person who generated the voting session:</li>
@@ -57,8 +57,8 @@
                             Then the app will send out the selection to all the participants for another round of vote.</li>
                     </ol>
                     <figure>
-                        <img src="media/images/milestone4/flowchart-min-min.png" alt="Flowchart" />
-                        <figcaption>Original Marker Flowchart <a href="media/images/milestone4/flowchart-full.png">Click here for the full-res photo</a></figcaption>
+                        <img src="media/images/milestone5/flowchart-min-min.png" alt="Flowchart" />
+                        <figcaption>Original Marker Flowchart <a href="media/images/milestone5/flowchart-full.png">Click here for the full-res photo</a></figcaption>
                     </figure>
                     <p>We then listed out the different preferences that we need to give to the users.
                         The list is at the top right of the whiteboard in the picture.
@@ -107,16 +107,16 @@
                     </ol>
                     <p>The following pictures are the final version of the UIs.</p>
                     <figure>
-                        <img src="media/images/milestone4/lofi1-min-min.png" alt="Lo Fi 1"/>
-                        <figcaption>Lo-Fi Part 1 <a href="media/images/milestone4/lofi1-full.png">Click here for the full-res photo</a></figcaption>
+                        <img src="media/images/milestone5/lofi1-min-min.png" alt="Lo Fi 1"/>
+                        <figcaption>Lo-Fi Part 1 <a href="media/images/milestone5/lofi1-full.png">Click here for the full-res photo</a></figcaption>
                     </figure>
                     <figure>
-                        <img src="media/images/milestone4/lofi2-min-min.png" alt="Lo Fi 2"/>
-                        <figcaption>Lo-Fi Part 2 <a href="media/images/milestone4/lofi2-full.png">Click here for the full-res photo</a></figcaption>
+                        <img src="media/images/milestone5/lofi2-min-min.png" alt="Lo Fi 2"/>
+                        <figcaption>Lo-Fi Part 2 <a href="media/images/milestone5/lofi2-full.png">Click here for the full-res photo</a></figcaption>
                     </figure>
                     <figure>
-                        <img src="media/images/milestone4/lofi3-min-min.png" alt="Lo Fi 3"/>
-                        <figcaption>Lo-Fi Part 3 <a href="media/images/milestone4/lofi3-full.png">Click here for the full-res photo</a></figcaption>
+                        <img src="media/images/milestone5/lofi3-min-min.png" alt="Lo Fi 3"/>
+                        <figcaption>Lo-Fi Part 3 <a href="media/images/milestone5/lofi3-full.png">Click here for the full-res photo</a></figcaption>
                     </figure>
                 </div>
 
